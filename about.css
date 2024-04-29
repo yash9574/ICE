@@ -1,0 +1,59 @@
+.title-ICE{
+    margin-top: 40px;
+    margin-bottom: 5px;
+    margin-left: 50px;
+    font-size:30px;
+    color:#000080;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+.dis-ICE{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    font-size: 19px;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#img-ICE{
+    height: auto;
+    width: 100%;
+}
+.img-ICE{
+    padding: 10px;
+    margin: 50px;
+}
+.dir-title{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 50px;
+    font-size:30px;
+    color:#000080;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+}
+.dir-container{
+    display: flex;
+    padding: 10px;
+    margin: 40px;
+    align-items: center;
+}
+#dir-img{
+    height: 355px;
+    width: 550px;
+}
+.dir-msg{
+    padding-left: 30px;
+    font-size: 19px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.dir-quote{
+margin-left: 300px;
+}
+.dir-quote pre{
+    font-family: "Cedarville Cursive", cursive;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 20px;
+}
